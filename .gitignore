@@ -1,0 +1,38 @@
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Imágenes médicas y base de datos
+*.dcm
+*.dicom
+IMG/
+MG/
+ROI/
+MASK/
+CBIS-DDSM/
+data/raw/
+data/IMG/
+
+# Resultados generados por el notebook
+resultados_pipeline_final/
+figuras_pipeline_final/
+errores_pipeline_final.csv
+resultados_metodos_pipeline_final.csv
+resultados_pipeline_final.csv
+resultados_caracterizados.csv
+
+# Archivos pesados o intermedios
+*.npy
+*.npz
+*.pkl
+*.h5
+*.zip
+*.rar
+*.7z
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
