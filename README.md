@@ -1,4 +1,4 @@
-# PSIB2026Q1-TPI-Grupo3-Rives-Yoo-Haag
+# PSIB2026Q1-TPI-Grupo3-Segmentacion-de-Masas-en-Mamografias
 
 ## Segmentación y extracción de características de masas en mamografías
 
