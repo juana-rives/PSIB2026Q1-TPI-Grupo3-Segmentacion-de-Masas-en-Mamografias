@@ -16,7 +16,8 @@ TP-PSIB/
 
 La ruta principal debe configurarse en el notebook mediante la variable BASE_DIR.
 
-**Links a la base de datos**
+
+**Links a la base de datos:**
 
 Descripción de la base de datos: https://www.cancerimagingarchive.net/collection/cbis-ddsm/ 
 
